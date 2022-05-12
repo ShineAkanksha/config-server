@@ -1,4 +1,4 @@
 microservice:
  prakat-service:
   my-service:
-   uri:http://localhost:catalogueService/
+   uri: http://localhost:catalogueService/
